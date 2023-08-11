@@ -16,26 +16,7 @@ body{
 .fundo{
     opacity: 0.5;
 }
-.title1{
-    height: 80px;
-    width: 30%;
-    text-align: center;
-    background-color: white;
-    color: rgb(28, 82, 46);
-    margin-left: -20px;
-    padding-top: 20px;
-    border-bottom-right-radius: 100px;
-    float: left;
-}
-.title2{
-    height: 80px;
-    width: 69%;
-    background-color: transparent;
-    text-align: center;
-    margin-right: -20px;
-    padding-top: 20px;
-    float: right;
-}
+
 .problemas{
     width: 55%;
     background-color:white;
